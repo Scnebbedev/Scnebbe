@@ -4,7 +4,7 @@
 ➜ https://discord.gg/bFZNBd7VvD ❙ Jeg vil mulighvis lægge løbene scripts ud fra projektet.
 
 ## 🎨 Graphics and design
-➜ https://discord.gg/BGBf5gf2h2 ❙ Jeg arbejder også på design, logoer, bannere og andet grafik henvendt.
+➜ Jeg arbejder også på design, logoer, bannere og andet grafik henvendt.
 
 ## 🔧 Work station 
 ➜ Visual Studio Code - GitHub - HTML - CSS - Lua
