@@ -4,4 +4,4 @@
 ➜ Jeg arbejder også på design, logoer, bannere og andet grafik henvendt.
 
 ## 🔧 Work station 
-➜ Visual Studio Code - GitHub - HTML - CSS - Lua
+➜ Visual Studio Code - GitHub - HTML - CSS - Lua - JS - Discord.js
